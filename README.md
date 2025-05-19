@@ -125,6 +125,18 @@ cd EcommerceDB
 
 
 
+ ## ✍️ Autor
+Desenvolvido por Pedro Alexandrino
+
+## 📫 Contato
+
+Se você gostou do projeto, fique à vontade para me chamar para conversar ou se conectar:
+#### 🔗 [Meu LinkedIn](https://www.linkedin.com/in/pedro-alexandrino/)
+
+
+
+
+
 
 
 
